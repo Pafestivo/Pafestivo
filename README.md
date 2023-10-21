@@ -2,9 +2,9 @@
 <h3 align="center">A full-stack web developer from Israel</h3>
 
 <div align="center">
-  <p align="left">- 👨‍💻 All of my projects are available at https://www.orrodrigez.com</p>
-  <p align="left">- 📫 How to reach me **orrodrigez1@gmail.com**</p>
-  <p align="left">- 📄 Learn about my experiences https://www.linkedin.com/in/orrodrigez</p>
+  - 👨‍💻 All of my projects are available at https://www.orrodrigez.com
+  - 📫 How to reach me **orrodrigez1@gmail.com**
+  - 📄 Learn about my experiences https://www.linkedin.com/in/orrodrigez
 </div>
 
 <h3 align="center">Connect with me:</h3>
