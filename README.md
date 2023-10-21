@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Or</h1>
 <h3 align="center">A full-stack web developer from Israel</h3>
+<img align="right" alt="coder" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 
 - 👨‍💻 All of my projects are available at [https://www.orrodrigez.com](https://www.orrodrigez.com)
 
