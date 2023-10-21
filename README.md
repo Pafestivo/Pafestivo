@@ -60,18 +60,18 @@
   </p>
 </div>
 
-<div align="center" style={{ display: "flex", flexWrap: "wrap" }}>
-  <div style="margin-top: 20px;">
+<div align="center">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
 
-  <div style="margin-top: 20px;">
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pafestivo" alt="GitHub Streak Stats" />
   </div>
 </div>
 
 <div align="left">
-  <div style="margin-top: 20px;">
+  <div>
     <img src="https://komarev.com/ghpvc/?username=pafestivo&label=Profile%20views&color=238f14&style=flat" alt="Profile Views" />
   </div>
 </div>
