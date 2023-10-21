@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Or</h1>
 <h3 align="center">A full-stack web developer from Israel</h3>
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://www.orrodrigez.com](https://www.orrodrigez.com)</p>
+<p align="center">- 👨‍💻 All of my projects are available at https://www.orrodrigez.com</p>
 <p align="center">- 📫 How to reach me **orrodrigez1@gmail.com**</p>
-<p align="center">- 📄 Learn about my experiences [https://www.linkedin.com/in/orrodrigez](https://www.linkedin.com/in/orrodrigez)</p>
+<p align="center">- 📄 Learn about my experiences https://www.linkedin.com/in/orrodrigez</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
