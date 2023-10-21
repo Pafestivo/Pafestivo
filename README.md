@@ -60,14 +60,18 @@
   </p>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<div align="center">
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pafestivo" alt="GitHub Streak Stats" />
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pafestivo" alt="GitHub Streak Stats" />
+  </div>
 </div>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=pafestivo&label=Profile%20views&color=238f14&style=flat" alt="Profile Views" />
+  <div style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=pafestivo&label=Profile%20views&color=238f14&style=flat" alt="Profile Views" />
+  </div>
 </div>
