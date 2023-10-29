@@ -8,6 +8,7 @@
   <p>🌐 Explore my projects at <a href="https://www.orrodrigez.com" target="_blank">orrodrigez.com</a></p>
   <p>📬 Contact me at <a href="mailto:orrodrigez1@gmail.com">orrodrigez1@gmail.com</a></p>
   <p>📄 Learn about my experiences on <a href="https://www.linkedin.com/in/orrodrigez" target="_blank">LinkedIn</a></p>
+  <br>
 </div>
 
 <div align="center">
