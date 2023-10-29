@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Or</h1>
   <h3>A full-stack web developer from Israel</h3>
   <div>
-    <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="300" height="300" alt="Level 4 HacktoberFest" >
+    <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="200" height="200" alt="Level 4 HacktoberFest" >
   </div>
   <br> 
   <p>🌐 Explore my projects at <a href="https://www.orrodrigez.com" target="_blank">orrodrigez.com</a></p>
