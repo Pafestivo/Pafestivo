@@ -8,7 +8,7 @@
 
 <div align="center">
   <div>
-    <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="100" height="100" alt="Level 4 HacktoberFest>
+    <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="300" height="300" alt="Level 4 HacktoberFest" >
   </div>
   
   <div>
