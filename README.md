@@ -11,10 +11,6 @@
 
 <div align="center">
   <div>
-    <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="300" height="300" alt="Level 4 HacktoberFest" >
-  </div>
-  
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
 
