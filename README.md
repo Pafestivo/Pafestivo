@@ -4,9 +4,11 @@
   <div>
     <img src="https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp" width="300" height="300" alt="Level 4 HacktoberFest" >
   </div>
-  <p>🌐 Explore my projects at <a href="https://www.orrodrigez.com" target="_blank">orrodrigez.com</a></p>
-  <p>📬 Contact me at <a href="mailto:orrodrigez1@gmail.com">orrodrigez1@gmail.com</a></p>
-  <p>📄 Learn about my experiences on <a href="https://www.linkedin.com/in/orrodrigez" target="_blank">LinkedIn</a></p>
+  <div style={{margin: "10px 0"}}>
+    <p>🌐 Explore my projects at <a href="https://www.orrodrigez.com" target="_blank">orrodrigez.com</a></p>
+    <p>📬 Contact me at <a href="mailto:orrodrigez1@gmail.com">orrodrigez1@gmail.com</a></p>
+    <p>📄 Learn about my experiences on <a href="https://www.linkedin.com/in/orrodrigez" target="_blank">LinkedIn</a></p>
+  </div>
 </div>
 
 <div align="center">
