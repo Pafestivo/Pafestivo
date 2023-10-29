@@ -8,6 +8,10 @@
 
 <div align="center">
   <div>
+    <img src="[https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en](https://assets.holopin.io/hf2023levels/level4-blue-helmet-suit-flippers-swarm.webp)" alt="GitHub Stats" />
+  </div>
+  
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
 
