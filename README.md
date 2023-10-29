@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Or</h1>
   <h3>A full-stack web developer from Israel</h3>
-  <table border="0">
+  <table align="center">
  <tr>
    <td>
     <p>🌐 Explore my projects at <a href="https://www.orrodrigez.com" target="_blank">orrodrigez.com</a></p>
