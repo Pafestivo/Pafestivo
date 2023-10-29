@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  <h3>Languages and Tools:</h3>
-</div>
-
-<div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=pafestivo&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
