@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Or</h1>
-  <h3>A full-stack web developer from Israel</h3>
+  <h1>Hi 👋</h1>
     <a href="https://www.holopin.io/userbadge/clnz3wc5881170fldtonettee" target="_blank">
       <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
         width="200" 
